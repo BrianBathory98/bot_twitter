@@ -57,6 +57,6 @@ ACCOUNTS:
 ## • Jalanin ?
 ```bash
 cd MassTweet
-pip install -r requirements.txt
+pip install -r requirement.txt
 python bot.py
 ```
