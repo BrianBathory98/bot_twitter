@@ -30,7 +30,7 @@ git clone https://github.com/BrianBathory98/bot_twitter.git
 ## Buat token dan key nya di :
 https://developer.twitter.com/en/portal/dashboard
 
-* ikuti aja langkahnya
+* dilangkah ini gua cuma bisa YNTKTS ngikutin aja langkahnya
 
 ## • Edit Configurations *config.yaml* file, buka pake vscode enak sih tinggal edit edit aja
 
